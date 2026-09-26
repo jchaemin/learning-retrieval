@@ -1,0 +1,42 @@
+{
+ "capital": {
+  "decl": {
+   "gen": 1.0
+  },
+  "list": {
+   "gen": 0.24
+  }
+ },
+ "currency": {
+  "decl": {
+   "gen": 1.0
+  },
+  "list": {
+   "gen": 0.835
+  }
+ },
+ "population": {
+  "decl": {
+   "gen": 1.0
+  },
+  "list": {
+   "gen": 0.15
+  }
+ },
+ "founder": {
+  "decl": {
+   "gen": 0.995
+  },
+  "list": {
+   "gen": 0.035
+  }
+ },
+ "birth year": {
+  "decl": {
+   "gen": 1.0
+  },
+  "list": {
+   "gen": 0.89
+  }
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "decl": {
+  "gen": 0.98
+ },
+ "poss": {
+  "gen": 0.09
+ },
+ "city": {
+  "gen": 0.7
+ },
+ "know": {
+  "gen": 0.97
+ },
+ "cloze": {
+  "gen": 0.75
+ },
+ "short_kv": {
+  "gen": 0.0
+ },
+ "list": {
+  "gen": 0.0
+ },
+ "decl_colon": {
+  "gen": 0.0
+ },
+ "list_is": {
+  "gen": 0.94
+ },
+ "margin": 5.154002799987793,
+ "first_token_nll": 0.3184332241508188
+}

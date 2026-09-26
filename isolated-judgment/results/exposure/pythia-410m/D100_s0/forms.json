@@ -1,9 +1,0 @@
-{
- "forms": [
-  "The capital of {c} is",
-  "Capital of {c}:",
-  "Q: What is the capital of {c}? A:",
-  "User: What is the capital of {c}?\nAssistant:",
-  "Name the capital of {c}:"
- ]
-}

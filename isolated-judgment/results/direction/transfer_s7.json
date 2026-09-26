@@ -1,0 +1,19 @@
+{
+ "cos_u_countries_people": 0.9994247555732727,
+ "capital": {
+  "own": {
+   "gen": 0.91
+  },
+  "transplant": {
+   "gen": 0.85
+  }
+ },
+ "birth_year": {
+  "own": {
+   "gen": 0.9666666666666667
+  },
+  "transplant": {
+   "gen": 0.98
+  }
+ }
+}

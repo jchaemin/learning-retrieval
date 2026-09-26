@@ -1,0 +1,72 @@
+{
+ "capital": {
+  "decl": {
+   "gen": 0.995
+  },
+  "list": {
+   "gen": 0.005
+  },
+  "list_is": {
+   "gen": 0.88
+  },
+  "decl_colon": {
+   "gen": 0.325
+  }
+ },
+ "currency": {
+  "decl": {
+   "gen": 1.0
+  },
+  "list": {
+   "gen": 0.005
+  },
+  "list_is": {
+   "gen": 0.755
+  },
+  "decl_colon": {
+   "gen": 0.39
+  }
+ },
+ "population": {
+  "decl": {
+   "gen": 0.985
+  },
+  "list": {
+   "gen": 0.04
+  },
+  "list_is": {
+   "gen": 0.945
+  },
+  "decl_colon": {
+   "gen": 0.385
+  }
+ },
+ "founder": {
+  "decl": {
+   "gen": 1.0
+  },
+  "list": {
+   "gen": 0.0
+  },
+  "list_is": {
+   "gen": 0.885
+  },
+  "decl_colon": {
+   "gen": 0.33
+  }
+ },
+ "birth year": {
+  "decl": {
+   "gen": 0.995
+  },
+  "list": {
+   "gen": 0.575
+  },
+  "list_is": {
+   "gen": 0.98
+  },
+  "decl_colon": {
+   "gen": 0.75
+  }
+ }
+}

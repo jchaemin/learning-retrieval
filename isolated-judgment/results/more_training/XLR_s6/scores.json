@@ -1,0 +1,15 @@
+{
+ "decl": {
+  "gen": 0.99
+ },
+ "list": {
+  "gen": 0.0
+ },
+ "list_is": {
+  "gen": 0.71
+ },
+ "decl_colon": {
+  "gen": 0.0
+ },
+ "stopped_at": 1000
+}

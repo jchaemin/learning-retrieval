@@ -1,0 +1,19 @@
+{
+ "cos_u_countries_people": 0.9995527863502502,
+ "capital": {
+  "same_domain": {
+   "gen": 0.8966666666666666
+  },
+  "other_domain": {
+   "gen": 0.8833333333333333
+  }
+ },
+ "birth_year": {
+  "same_domain": {
+   "gen": 0.9733333333333334
+  },
+  "other_domain": {
+   "gen": 0.9766666666666667
+  }
+ }
+}

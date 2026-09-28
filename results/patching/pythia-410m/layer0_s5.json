@@ -1,0 +1,14 @@
+{
+ "rewrite": {
+  "gen": 0.94
+ },
+ "same_fact": {
+  "gen": 0.94
+ },
+ "different_fact": {
+  "gen": 0.94
+ },
+ "random": {
+  "gen": 0.0
+ }
+}
